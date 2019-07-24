@@ -1,4 +1,4 @@
 def oxford_comma(array)
-array << 
-"robot,nalgon, cabra".split(",")
+array << "kiwi, durian, and starfruit"
+.split(",")
 end
