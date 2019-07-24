@@ -1,4 +1,4 @@
 def oxford_comma(array)
-array = %w(kiwi)
+array = 
 
 end
