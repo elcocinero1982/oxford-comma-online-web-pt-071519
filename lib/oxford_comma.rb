@@ -1,4 +1,4 @@
 def oxford_comma(array)
-array << 
+array << "robot,nalgon, cabra"
 
 end
